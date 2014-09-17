@@ -1,4 +1,3 @@
 fountain
 ========
-
-my first repository
+the is fountain homework
