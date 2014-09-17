@@ -1,5 +1,5 @@
 //实现冒泡排序，对字符数组进行排序
-{#include <stdio.h>
+#include <stdio.h>
 
 int main(void)  //实现用冒泡排序法对字符数组进行从小到大排序
 {
